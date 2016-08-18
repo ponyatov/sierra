@@ -11,6 +11,10 @@ github: https://github.com/ponyatov/sierra
 
 http://source.sierrawireless.com/devices/wp-series/wp8548/
 
+### mangOH devboard
+
+http://mangoh.io/build-your-own.html
+
 ### Legato IoT platform
 
 http://legato.io/
