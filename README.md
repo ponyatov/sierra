@@ -5,8 +5,9 @@
 
 ### WP8548
 
-https://www.sierrawireless.com/products-and-solutions/embedded-solutions/wp-series/
+http://source.sierrawireless.com/devices/wp-series/wp8548/
 
 ### Legato IoT platform
 
 http://legato.io/
+
